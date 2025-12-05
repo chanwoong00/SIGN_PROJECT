@@ -17,7 +17,7 @@ conda activate vision_project
 pip install opencv-python mediapipe pandas scikit-learn
 
 
-#파일설명#
+## 파일설명
 collect_data.py - 데이터 수집
 
 사용 키 매핑 (Key Mapping):
